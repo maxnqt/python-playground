@@ -1,6 +1,6 @@
 # python-playground
 
-> A sandbox for experimenting with Python — from core language features and standard-library gems to Django and async, with write-ups for each.
+> A sandbox for experimenting with Python, from core language features and standard-library gems to Django and async, with write-ups for each.
 
 This repo is my working notebook for learning Python. It has two parts: `notes` where I write down concepts, gotchas, and "aha" moments as I go, and a set of `examples`, each a small, self-contained uv project that explores one idea.
 
